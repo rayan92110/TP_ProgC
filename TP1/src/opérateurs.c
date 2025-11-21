@@ -4,10 +4,11 @@
 int main() {
 int a = 16;
 int b = 4;  
-    printf("a-b = ", a-b);
-    printf("a+b = ", a+b);
-    printf("a*b = ", a*b);
-    printf("a/b = ", a/b);
+    printf("a-b = %d", a-b);
+    printf("a+b = %d", a+b);
+    printf("a*b = %d", a*b);
+    printf("a/b = %d", a/b);
    
 }
+
 
