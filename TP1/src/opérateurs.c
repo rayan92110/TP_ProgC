@@ -15,15 +15,16 @@ int b = 4;
     if (egal ==0 || sup ==0){
         egal = "false "
         sup = "false "
-    }
+    };
     else ( egal == 1 || sup == 1){
         egal == " true"
         sup == " true"
-    }
+    };
     printf("a=b esce vrai ? : %d\n", egal);
     printf("a superieur b esce vrai ? : %d", sup);
    
 }
+
 
 
 
